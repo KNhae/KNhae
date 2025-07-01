@@ -1,5 +1,7 @@
 ## Hi 👋, I'm K'Nhae
 
+I'm a Computer Science student at the University of Minnesota Twin Cities, passionate and learning about AI/ML and full stack development.
+
 <!--
 **KNhae/KNhae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
